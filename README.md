@@ -18,7 +18,7 @@ I mostly use C#, C++ and Java
 * [x] - Cmake(Enough)
 * [ ] - F# (60%)
 * [ ] - Lisp (30%)
-* [ ] - Perl (10%) \
+* [ ] - Perl (10%)
 ## Libraries I can/am learning:
 * [x] - OpenCL
 * [x] - OpenCV(80%)
