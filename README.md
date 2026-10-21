@@ -1,6 +1,5 @@
 <div align="center">
-## Stigl
-<br>
+<h2>Stigl</h2>
 <a href="https://ireview.games">website</a> - <a href="mailto:stigl@ireview.games">contact</a>
 </div>
 
